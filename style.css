@@ -1,0 +1,13 @@
+.pic {
+    display: inline-block;
+}
+
+.one {
+    max-width: 150px;
+    max-height: 100px;
+}
+
+.two {
+    max-width: 50px;
+    min-height: 100px;
+}
